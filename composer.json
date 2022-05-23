@@ -15,7 +15,7 @@
     "react/filesystem": "^0.2@dev"
   },
   "require-dev": {
-    "wyrihaximus/async-test-utilities": "^5.0.3"
+    "wyrihaximus/async-test-utilities": "^5.0.4"
   },
   "autoload": {
     "psr-4": {
